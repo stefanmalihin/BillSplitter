@@ -1,0 +1,34 @@
+h2 {
+    color: SandyBrown;
+    text-align: center;
+    font-size: 50px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0;
+}
+
+input[type=text]:focus {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0;
+    background-color: #FFC28C;
+    border-color: White;
+    outline: none;
+}
+
+input[type=submit]{
+    width: 100%;
+    background-color: SandyBrown;
+    color: White;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+}
+
+body {
+    background-color: #FFFFF0;
+    padding: 20px;
+}
